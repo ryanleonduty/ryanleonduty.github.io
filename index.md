@@ -2,18 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Corise R For Data Science 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Exploring 100+ Years of US Baby Names](/sample_page)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](https://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Estimating Age from Name](/pdf/sample_presentation.pdf)
+
 
 ---
 
