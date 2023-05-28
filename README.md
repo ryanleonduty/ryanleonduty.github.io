@@ -1,8 +1,6 @@
 ## Ryan Le's Data Science Portfolio Projects
 
-### Introduction
-
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Based on Jekyll theme "Minimal" [1]
 
 ### Installation
 
