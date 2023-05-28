@@ -1,6 +1,6 @@
 ## Ryan Le's Data Science Portfolio Projects
 
-Based on Jekyll theme "Minimal" [1]
+Based on Jekyll theme "Minimal" [1].
 
 ### Installation
 
