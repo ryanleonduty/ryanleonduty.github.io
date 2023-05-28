@@ -1,4 +1,4 @@
-## Ryan Le's Data Science Portfolio Projects
+## Ryan Le's Data Science Portfolio
 
 Based on Jekyll theme "Minimal" [1].
 
