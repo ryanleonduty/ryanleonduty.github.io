@@ -4,21 +4,19 @@
 
 ### Corise R For Data Science 
 
-[Exploring 100+ Years of US Baby Names](/sample_page)
+### Exploring 100+ Years of US Baby Names
 
+The purpose of this project is to explore 100+ years of US Baby Names. Based on that, we can know popular names, trendy names, and popular letters across those names. 
 
----
-[Estimating Age from Name](/pdf/sample_presentation.pdf)
+[View more on Github](https://github.com/ryanleonduty/corise-r-for-ds/blob/main/projects/project-01/project-01-explore-babynames.md)
 
-
----
-
-### Category Name 2
-
-- [Project 1 Title](https://example.com/)
-- [Project 2 Title](https://example.com/)
-- [Project 3 Title](https://example.com/)
-- [Project 4 Title](https://example.com/)
-- [Project 5 Title](https://example.com/)
+<img src="images/question-1-visualize-1.png?raw=true"/>
 
 ---
+### Estimating Age from Name
+
+This project go deeper to know more about name of a person through visualizing age distribution for people with different names.
+
+[View more on Github](https://github.com/ryanleonduty/corise-r-for-ds/blob/main/projects/project-02/project-02-estimate-age-from-name.md)
+
+<img src="images/plot-tbl-names-extended-age-1.png?raw=true"/>
