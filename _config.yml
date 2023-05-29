@@ -1,8 +1,8 @@
 title: Ryan Le  # your name (or website title) here
 logo: "/images/photo1.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I'm an aspiring data analyst eager to enter the field. I have recently acquired skills in data analysis, including Python, R, SQL, Excel, Power BI, and Tableau. With a passion for uncovering insights, I'm ready to contribute to data-driven decision-making.
   <br><br>
+  I'm an aspiring data analyst eager to enter the field. I have recently acquired skills in data analysis, including Python, R, SQL, Excel, Power BI, and Tableau. With a passion for uncovering insights, I'm ready to contribute to data-driven decision-making.
 
 theme: jekyll-theme-minimal
 
