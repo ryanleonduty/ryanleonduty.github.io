@@ -16,7 +16,7 @@ In this project, I built a dashboard to visualize net sales for 3 financial year
 
 The purpose of this project is to explore 100+ years of US Baby Names. Based on provided data, we can build some cool visualizations to know popular names, trendy names, and popular letters across those names. 
 
-[View more on Github](https://github.com/ryanleonduty/corise-r-for-ds/blob/main/projects/project-01/project-01-explore-babynames.md)
+<a href="https://github.com/ryanleonduty/corise-r-for-ds/blob/main/projects/project-01/project-01-explore-babynames.md" target="_blank">View more on Github</a>
 
 <img src="images/question-1-visualize-1.png?raw=true"/>
 
@@ -25,6 +25,6 @@ The purpose of this project is to explore 100+ years of US Baby Names. Based on 
 
 This project go deeper to know more about name of a person through visualizing age distribution for people with different names.
 
-[View more on Github](https://github.com/ryanleonduty/corise-r-for-ds/blob/main/projects/project-02/project-02-estimate-age-from-name.md)
+<a href="https://github.com/ryanleonduty/corise-r-for-ds/blob/main/projects/project-02/project-02-estimate-age-from-name.md" target="_blank">View more on Github</a>
 
 <img src="images/plot-tbl-names-extended-age-1.png?raw=true"/>
