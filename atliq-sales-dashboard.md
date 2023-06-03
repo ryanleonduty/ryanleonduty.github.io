@@ -1,6 +1,6 @@
 ### AtliQ Sales Dashboard
 
-[View Dashboard](https://www.loom.com/share/2da1b93c71d94ae6acb57a79670b9886)
+<a href="https://www.loom.com/share/2da1b93c71d94ae6acb57a79670b9886" target="_blank">View Dashboard</a>
 
 **What I used**
 
