@@ -2,8 +2,11 @@
 
 ### PowerBI: AtliQ Dashboard
 
+This project includes four dashboards: finance, sales, marketing, and supply chain. These dashboards are used for different departments at AtliQ Hardware to help the company gain an insight view for better decision-making.
+
 [View More](https://ryanle.me/atliq-dashboard)
 
+<img src="images/atliq-bi-dashboard.png?raw=true"/>
 
 ### Excel: AtliQ Sales Dashboard
 
