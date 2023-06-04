@@ -1,5 +1,10 @@
 ## Portfolio
 
+### PowerBI: AtliQ Dashboard
+
+[View More](https://ryanle.me/atliq-dashboard)
+
+
 ### Excel: AtliQ Sales Dashboard
 
 In this project, I built a dashboard to visualize net sales for 3 financial years 2019, 2020, and 2021 based on the dataset provided by codebasics.
