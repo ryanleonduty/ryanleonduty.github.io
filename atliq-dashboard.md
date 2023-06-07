@@ -1,6 +1,6 @@
 ### PowerBI: AtliQ Dashboard
 
-<a href="https://www.loom.com/share/6c804492508b4c0e97f41f3a7b418d24" target="_blank">View Dashboard</a>
+<a href="https://www.loom.com/share/bce4349f156d4c4d9914ca3cc0e713c0" target="_blank">View Dashboard</a>
 
 
 **What I used**
