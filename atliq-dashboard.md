@@ -5,9 +5,15 @@
 
 **What I used**
 
+- Load data from MySQL Database, also import .csv files as needed.
+- Transform data and create calculated columns using Power Query Editor and DAX.
+- Using dynamic target, dynamic slicer, and toggle button.
+- Created a tooltip to show trends.
 
 **Summary**
 
+1. 
+2. 
 
 **Recommendation**
 
