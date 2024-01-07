@@ -14,6 +14,8 @@ This project includes four dashboards: finance, sales, marketing, and supply cha
 
 In this project, I built a dashboard to visualize net sales for 3 financial years 2019, 2020, and 2021 based on the dataset provided by codebasics.
 
+<img src="https://img.shields.io/badge/Excel-green?style=flat&logo=Microsoft%20Excel" alt="">
+
 [View More](https://ryanle.me/atliq-sales-dashboard)
 
 <img src="images/atliq-dashboard.png?raw=true"/>
