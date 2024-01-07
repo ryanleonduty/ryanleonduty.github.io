@@ -4,6 +4,8 @@
 
 This project includes four dashboards: finance, sales, marketing, and supply chain. These dashboards are used for different departments at AtliQ Hardware to help the company gain an insight view for better decision-making.
 
+<img src="https://img.shields.io/badge/Power%20BI-white?style=flat&logo=Power%20BI" alt="">
+
 [View More](https://ryanle.me/atliq-dashboard)
 
 <img src="images/atliq-bi-dashboard.png?raw=true"/>
