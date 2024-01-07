@@ -12,11 +12,11 @@
 
 **Summary**
 
-- Finance Dashboard: Revealed increasing net sales reaching $823.85M alongside narrowing net profit margins, signaling financial dynamics needing attention.
-- Sales Dashboard: Demonstrated improvement in sales forecast accuracy and a reduction in stockouts, spotlighting customer and product segment dynamics.
-- Marketing Dashboard: Uncovered evolving trends in market share and revenue distribution, critical for strategic marketing planning.
-- Supply Chain Dashboard: Indicated opportunities for inventory management optimizations, directly impacting cost and efficiency.
-- Executive Dashboard: Offered a holistic view of business performance, highlighting key operational and financial areas.
+- **Finance Dashboard:** Revealed increasing net sales reaching $823.85M alongside narrowing net profit margins, signaling financial dynamics needing attention.
+- **Sales Dashboard:** Demonstrated improvement in sales forecast accuracy and a reduction in stockouts, spotlighting customer and product segment dynamics.
+- **Marketing Dashboard:** Uncovered evolving trends in market share and revenue distribution, critical for strategic marketing planning.
+- **Supply Chain Dashboard:** Indicated opportunities for inventory management optimizations, directly impacting cost and efficiency.
+- **Executive Dashboard:** Offered a holistic view of business performance, highlighting key operational and financial areas.
 
 
 **Recommendation**
